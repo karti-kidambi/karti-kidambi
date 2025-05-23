@@ -88,5 +88,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+code+something+great+together+💻" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+code+something+great+together+💻" alt="Typing SVG" />
 </p>
+
