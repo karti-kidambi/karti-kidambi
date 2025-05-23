@@ -1,27 +1,79 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">Computer Science undergraduate with expertise in software development, focusing on Java, Spring Boot, and web technologies. Demonstrated experience in building web applications with strong problem-solving abilities. Seeking an entry-level software development position to contribute technical skills in a collaborative environment</h3>
+# 👋 Hello there! I'm Kartik Kidambi
 
-- 🔭 I’m currently working on **SpringBoot**
-
-- 🌱 I’m currently learning **SpringBoot,DSA**
-
-- 👯 I’m looking to collaborate on **Innovation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/karti-kidambi](https://github.com/karti-kidambi)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **kartikeyankidambi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karti-kidambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karti-kidambi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/klu_2200030797" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_2200030797" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/klu_2200030797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="klu_2200030797" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kartikidambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikidambi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Passionate+Java+Developer;Spring+Boot+Enthusiast;Lifelong+Learner+%26+Innovator" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karti-kidambi&show_icons=true&locale=en&layout=compact" alt="karti-kidambi" /></p>
+🎓 I'm a **Computer Science Undergraduate** driven by curiosity and a love for clean code.  
+💡 I specialize in **Java**, **Spring Boot**, and modern **Web Development**.  
+🧠 I'm always learning – currently deep diving into **DSA** and refining my **Spring Boot** skills.  
+🚀 I enjoy building intuitive web applications and solving complex technical puzzles.
+
+---
+
+## 🚧 What I'm Working On
+- 🔭 Enhancing backend architecture with **Spring Boot**
+- ⚙️ Creating scalable full-stack applications
+- 💡 Experimenting with creative problem-solving and open-source contributions
+
+---
+
+## 🤝 Let's Collaborate
+I’m on the lookout for **innovative projects** that push boundaries. If you're working on something exciting, I’d love to hear from you!
+
+---
+
+## 📂 My Work
+All of my personal and collaborative projects live here on [**GitHub**](https://github.com/karti-kidambi).  
+Dive in and explore my journey as a developer!
+
+---
+
+## 💬 Ask Me About
+- Java & Spring Boot
+- Backend API Design
+- Database Integration
+- Software Architecture
+- Clean Code Practices
+
+---
+
+## 📫 Reach Me At
+- 📧 **kartikeyankidambi@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/karti-kidambi" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:kartikeyankidambi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/karti-kidambi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Motto I Live By
+> *“Build with passion. Learn with curiosity. Share with generosity.”*
+
+---
+
+🌟 _Thank you for visiting my profile! Let’s create something amazing together._ 🌟
