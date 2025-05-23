@@ -38,32 +38,35 @@
 
 ## 🧰 Tech Toolbox
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-%23318C88?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-%23FF6F61?style=for-the-badge&logo=protocols.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-%23FFA500?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300778F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-%23007ACC?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-%23FF305E?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Communication-%23FFB300?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-%2300C853?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project_Management-%234285F4?style=for-the-badge&logoColor=white" />
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-000?logo=java&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?logo=javascript&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-SpringBoot-000?logo=springboot&style=flat-square" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Hibernate-000?logo=hibernate&style=flat-square" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/-Maven-000?logo=apachemaven&style=flat-square" alt="Maven" />
+  <img src="https://img.shields.io/badge/-Jenkins-000?logo=jenkins&style=flat-square" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/-Docker-000?logo=docker&style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Terraform-000?logo=terraform&style=flat-square" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-AWS-000?logo=amazonaws&style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/-REST%20API-000?logo=protocols.io&style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/-WebSockets-000?logo=websocket&style=flat-square" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/-MySQL-000?logo=mysql&style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-JPA-000?logo=hibernate&style=flat-square" alt="JPA" />
+  <img src="https://img.shields.io/badge/-GitHub-000?logo=github&style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Postman-000?logo=postman&style=flat-square" alt="Postman" />
+  <img src="https://img.shields.io/badge/-IntelliJ-000?logo=intellijidea&style=flat-square" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/-VS%20Code-000?logo=visualstudiocode&style=flat-square" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Linux-000?logo=linux&style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu&style=flat-square" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Communication-000?style=flat-square" alt="Communication" />
+  <img src="https://img.shields.io/badge/-Problem%20Solving-000?style=flat-square" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/-Project%20Management-000?style=flat-square" alt="Project Management" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYr2ALF5ezpBYAo/giphy.gif" width="100" alt="dancing" />
+</p>
 
 
 ---
