@@ -56,7 +56,7 @@
 ## 💼 Projects & Portfolio
 
 - 🔗 Browse my work: [**GitHub Repos**](https://github.com/karti-kidambi)
-- 💼 Soon: [Personal Portfolio Website](#)
+- 💼 Soon: [Personal Portfolio Website](https://personal-portfolio-mu-wine-84.vercel.app/)
 
 ---
 
