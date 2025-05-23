@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello World! I'm <span style="color:#f76c6c">Karti Kidambi</span></h1>
+<h1 align="center">👋 Hello World! I'm <span style="color:#00F0FF">Karti Kidambi</span></h1>
 <h3 align="center">🚀 Java Developer | Backend Engineer | Cloud Explorer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Java+%7C+Spring+Boot+%7C+Web+Development;Passionate+about+Clean+Code+%26+Architecture;Exploring+Cloud%2C+DevOps%2C+and+Microservices;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Java+%7C+Spring+Boot+%7C+Web+Development;Passionate+about+Clean+Code+%26+Architecture;Exploring+Cloud%2C+DevOps%2C+and+Microservices;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
@@ -86,6 +86,7 @@
 > *“Build with passion. Learn with curiosity. Share with generosity.”*
 
 ---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+code+something+great+together+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+code+something+great+together+💻" alt="Typing SVG Footer" />
 </p>
