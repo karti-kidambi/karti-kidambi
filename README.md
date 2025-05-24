@@ -90,5 +90,5 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=400&height=50&lines=Thanks+for+visiting+my+profile!; Let's+code+something+great+together+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=400&height=50&lines=Thanks+for+visiting+my+profile!;Let's+code+something+great+together+💻" alt="Typing SVG" />
 </p>
