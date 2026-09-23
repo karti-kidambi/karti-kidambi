@@ -15,7 +15,7 @@ I build backend APIs and full-stack products, from database-backed workflows and
 | **EcomMart** | Java 21 / Spring Boot e-commerce APIs, Spring Security role-based access, React UI, order management, simulated payment flows and MySQL on AWS RDS. | [Code](https://github.com/karti-kidambi/Ecom-mart) · [Demo](https://ecom-mart-five.vercel.app/) |
 | **TicketBook** | Spring Boot / React bus reservations, seat availability validation, booking conflict prevention, coupon-based fares and 450+ seeded trips across 14 routes. | [Code](https://github.com/karti-kidambi/Ticket_Reservation_System) · [Demo](https://ticket-reservation-system-z37j.vercel.app/) |
 | **Switch** | Released Android grocery comparison app covering six platforms. Parallel storefront extraction, fuzzy product matching and price-per-kg/litre normalisation with on-device processing. | [Product](https://kartikidambi.space/switch) |
-| **NutriScan** | React / Node.js food intelligence app with GS1 barcode validation, multi-source lookup, circuit-breaker fallback and AI-assisted label extraction; 120 automated tests. | [Code](https://github.com/karti-kidambi/FoodScan) · [Product](https://nutriscan.kartikidambi.space) |
+| **NutriScan** | React / Node.js food intelligence app with GS1 barcode validation, multi-source lookup, circuit-breaker fallback and AI-assisted label extraction; 120 automated tests. | [Product](https://nutriscan.kartikidambi.space) |
 
 ## More projects
 
